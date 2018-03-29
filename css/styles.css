@@ -1,0 +1,31 @@
+.header .header-top .uk-navbar-container {
+    background-color: white;
+}
+.uk-navbar-left {
+    flex-grow: 1;
+    justify-content: space-between;
+}
+.uk-navbar-nav>li>a {
+    text-transform: none;
+}
+
+.uk-navbar-center {
+    justify-content: center;
+    flex-grow: 1;
+}
+.uk-navbar-center .uk-navbar-nav {
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.main .container {
+
+}
+
+article.article .container {
+
+}
+.container-copyright {
+    display: flex;
+    align-items: center;
+}
